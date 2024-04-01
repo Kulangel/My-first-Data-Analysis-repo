@@ -14,4 +14,4 @@
 
 
 ----
-# Fidings and Recomendation 
+# Findings and Recomendation 
